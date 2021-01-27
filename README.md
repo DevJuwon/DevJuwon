@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+#### Github Status
+
+[![pikokr's github stats](https://github-readme-stats.vercel.app/api?username=DevJuwon)](https://github.com/DevJuwon)
+
+#### Top languages
+
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJuwon)](https://github.com/DevJuwon)
+
+#### Wakatime
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=DevJuwon)](https://github.com/DevJuwon)
+
 <!--
 **DevJuwon/DevJuwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
